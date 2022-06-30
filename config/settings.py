@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'd_models',
     'rest_framework',
     'snippets',
+    'drf',
 ]
 
 MIDDLEWARE = [
